@@ -1,0 +1,29 @@
+.formdiv {
+    margin: 30px;
+  }
+  
+  input[type=text], input[type=password], select {
+    width: 100%;
+    padding: 20px 20px;
+    margin: 10px;
+    display: inline-block;
+    border: 1px solid red;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit], select {
+    width: 100%;
+    background: tomato;
+    color: #fff;
+    padding: 14px 20px;
+    margin: 10px 0px;
+    border: 4x solid rgb(255, 5, 5);
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+  }
+  
+  input[type=submit] :hover {
+    color: aqua;
+  }/*# sourceMappingURL=Style.css.map */
